@@ -1,0 +1,4 @@
+Sitemap: https://github.com/theosyn/redbuttontest1/sitemapindex.xml
+
+User-Agent: *
+Host: github.com
